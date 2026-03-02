@@ -1,0 +1,1 @@
+cc -O2 -Wall -Wextra -std=c11 main.c croutine.c -o
