@@ -1,1 +1,2 @@
-cc -O2 -Wall -Wextra -std=c11 main.c croutine.c -o
+cc -O2 -Wall -Wextra -std=c11 wait_test.c croutine.c -o wait_test
+cc -O2 -Wall -Wextra -std=c11 io_test.c croutine.c -o io_test
